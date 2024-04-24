@@ -1,0 +1,4 @@
+﻿  Server.cpp
+M:\projects\C++ projects\HONP\UDP Server\Server.cpp(30,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+M:\projects\C++ projects\HONP\UDP Server\Server.cpp(46,25): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  UDP Server.vcxproj -> M:\projects\C++ projects\HONP\x64\Debug\UDP Server.exe

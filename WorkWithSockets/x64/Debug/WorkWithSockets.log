@@ -1,0 +1,5 @@
+﻿  time_server.cpp
+M:\projects\C++ projects\HONP\WorkWithSockets\time_server.cpp(80,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+M:\projects\C++ projects\HONP\WorkWithSockets\time_server.cpp(123,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+M:\projects\C++ projects\HONP\WorkWithSockets\time_server.cpp(130,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  WorkWithSockets.vcxproj -> M:\projects\C++ projects\HONP\x64\Debug\WorkWithSockets.exe

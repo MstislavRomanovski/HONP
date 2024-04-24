@@ -1,0 +1,4 @@
+﻿  Server.cpp
+M:\projects\C++ projects\HONP\TCP server\Server.cpp(35,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+M:\projects\C++ projects\HONP\TCP server\Server.cpp(58,25): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  TCP server.vcxproj -> M:\projects\C++ projects\HONP\x64\Debug\TCP Server.exe
